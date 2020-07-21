@@ -1,3 +1,8 @@
+
+var nombre;
+var edad;
+
+
 function revisar(elemento){
 				if(elemento.value==''){
 					elemento.className='error';
