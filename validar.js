@@ -1,7 +1,7 @@
 
 var nombre;
 var edad;
-
+var apelldio;
 
 function revisar(elemento){
 				if(elemento.value==''){
